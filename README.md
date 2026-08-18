@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou desenvolvedor de sistemas.
+Desenvolvedor de sistemas.
 
 ### Projeto
 
@@ -39,20 +39,21 @@ Atualmente estou desenvolvendo uma página web simples utilizando:
 
 - HTML5
 - CSS3
-- Git para versionamento de código
-- Netlify para hospedagem e implantação
+- Git, para versionamento de código
+- Netlify, para hospedagem e implantação
 
-O projeto faz parte do meu processo de aprimoramento em **desenvolvimento web e publicação de aplicações**.
+Através do projeto, estou aprimorando minhas habilidades em **Desenvolvimento Web**
 
 ---
 
 ## 📚 Conhecimentos
 
-- Desenvolvimento de aplicações
-- Desenvolvimento web
-- Programação orientada a objetos
-- Estruturas de dados e lógica de programação
+- Desenvolvimento Web
+- Programação Orientada a Objetos (POO)
+- Estruturas de dados e Lógica de Programação
 - Versionamento de código com Git
+- Bancos de dados relacionais
+- Segurança da Informação
 
 ---
 
