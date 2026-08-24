@@ -14,10 +14,10 @@ Atualmente estou desenvolvendo um projeto utilizando as linguagens de marcação
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Intermediário-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediário-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-Intermediário-green?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Intermediário-green?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Intermediário-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/c++-Intermediário-green?style=for-the-badge&logo=cplusplus)
 
 ### Desenvolvimento Web
 
