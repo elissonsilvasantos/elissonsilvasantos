@@ -16,7 +16,7 @@ Atualmente estou desenvolvendo um projeto utilizando as linguagens de marcação
 
 ![JavaScript](https://img.shields.io/badge/Javascript-Intermediário-green?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-Intermediário-green?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-Intermediário-ED8B00?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-Intermediário-green?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/c++-Intermediário-green?style=for-the-badge&logo=cplusplus)
 
 ### Desenvolvimento Web
