@@ -21,13 +21,13 @@ Atualmente estou desenvolvendo um projeto utilizando as linguagens de marcação
 
 ### Desenvolvimento Web
 
-![HTML5](https://img.shields.io/badge/HTML5-Intermediário-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediário-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Intermediário-green?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediário-green?style=for-the-badge&logo=css)
 
 ### Versionamento e Plataformas
 
-![Git](https://img.shields.io/badge/Git-Básico-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-Básico-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Básico-yellow?style=for-the-badge&logo=git)
+![Netlify](https://img.shields.io/badge/Netlify-Básico-yellow?style=for-the-badge&logo=netlify)
 
 ---
 
