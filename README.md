@@ -29,6 +29,11 @@ Atualmente estou desenvolvendo um projeto utilizando as linguagens de marcação
 ![Git](https://img.shields.io/badge/Git-Básico-yellow?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/Netlify-Básico-yellow?style=for-the-badge&logo=netlify)
 
+### Sistemas Operacionais
+
+![Windows](https://img.shields.io/badge/💻_Windows-Intermediário-green?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Básico-yellow?style=for-the-badge&logo=linux)
+
 ---
 
 ## 🚀 Projeto atual
